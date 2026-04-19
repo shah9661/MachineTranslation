@@ -27,3 +27,5 @@ Non-trainable params: 0
 
 **Model** =https://huggingface.co/shan9661/translation_transformer/tree/main
 
+**App**= https://kbjungup5crv4upamjg9ge.streamlit.app/
+
